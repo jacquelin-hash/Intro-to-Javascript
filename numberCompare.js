@@ -1,4 +1,3 @@
-// numberCompare.js
 const number1 = 10;
 const number2 = 20;
 
